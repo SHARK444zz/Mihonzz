@@ -1,4 +1,21 @@
 mihon-fhentai/
 ├── index.min.json
+[
+  {
+    "name": "Fhentai",
+    "id": "fhentai",
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/SHARK444zz/Mihonzz/main/mihon-fhentai/fhentai/manifest.json",
+    "lang": "pt-BR",
+    "type": "comic"
+  }
+]
 └── fhentai/
     └── manifest.json
+{
+  "name": "Fhentai",
+  "id": "fhentai",
+  "version": "1.0",
+  "lang": "pt-BR",
+  "type": "comic"
+}
